@@ -6,3 +6,4 @@ def funcion4():
 
 def funcionGit():
     print("Hola Git")
+    print("Chau Git")
