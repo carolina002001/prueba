@@ -4,5 +4,5 @@
 def funcion4():
     print('4')
 
-def funcion2():
+def funcionGit():
     print("Hola Git")
